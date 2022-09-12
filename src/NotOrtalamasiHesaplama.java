@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class NotOrtalamasıHesaplama {
+public class NotOrtalamasiHesaplama {
 
     public static void main(String[] args) {
 
